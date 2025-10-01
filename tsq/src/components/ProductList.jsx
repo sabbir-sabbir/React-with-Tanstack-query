@@ -78,6 +78,7 @@ const ProductList = () => {
       <div className="w-3/10 h-auto  p-3 my-3 flex justify-start items-start ">
        <ProductDetails headings="Product details" id={details} />
       </div>
+      {/* Calculation */}
 
       
     
